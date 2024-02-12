@@ -1,5 +1,5 @@
 # UnixAssignmentSpring24
-Exploring and wrangling data files using Unix commands  
+Exploring and wrangling data using Unix commands  
 # Data Exploration and Wrangling with Unix
 
 This repository provides examples and resources for exploring and wrangling data using Unix commands. Unix-based systems offer a powerful set of tools that can be used to manipulate, clean, and analyze data efficiently and effectively.
